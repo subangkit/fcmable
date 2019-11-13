@@ -1,0 +1,15 @@
+{
+    "name": "subangkit/fcmable",
+    "description": "Laravel Package to Integrate Model and FCM",
+    "type": "library laravel",
+    "require": {
+        "brozot/laravel-fcm": "1.2.*"
+    },
+    "authors": [
+        {
+            "name": "Subangkit",
+            "email": "mr.subangkit@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
